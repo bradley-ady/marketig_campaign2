@@ -19,6 +19,7 @@ SEGMENTS = sorted(df["SegmentLabel"].unique().tolist())
 
 # ── App ──────────────────────────────────────────────────────────────────────
 app = Dash(__name__, external_stylesheets=[dbc.themes.DARKLY])
+server = app.server
 app.title = "Marketing BI Dashboard"
 
 # ── Layout ───────────────────────────────────────────────────────────────────
