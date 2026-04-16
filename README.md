@@ -1,7 +1,7 @@
 Marketing Analytics & Customer Scoring — 2026 
 Bradley Belizaaire et Fethi Ouzaa
-Objectif du Projet 
 
+Objectif du Projet 
 Ce projet vise à optimiser la stratégie marketing d'une entreprise orientée performance commerciale en utilisant la Data Science et la Business Intelligence. L'objectif est de segmenter la base clients et de prédire le potentiel de réponse à une campagne pour cibler les actions marketing de manière plus efficace et réduire le coût d'acquisition. 
 
 Stack Technique 
