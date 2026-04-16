@@ -113,7 +113,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn statsmodels scipy plotl
  
 # Lancer le dashboard 
 python dashboard.py 
-# → Ouvrir http://127.0.0.1:8050
+# → Ouvrir [http://127.0.0.1:8050](https://marketig-campaign2.onrender.com/)
 
 ---
 
